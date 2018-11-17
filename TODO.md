@@ -11,6 +11,6 @@ TODO
 - [x] Buzzのパターン: 5の倍数
     - [x] 5 -> "Buzz"
     - [x] 10 -> "Buzz"    
-- [ ] FizzBuzzのパターン: 3と5の公倍数
-    - [ ] 15 -> "FizzBuzz"
-    - [ ] 30 -> "FizzBuzz"
+- [x] FizzBuzzのパターン: 3と5の公倍数
+    - [x] 15 -> "FizzBuzz"
+    - [x] 30 -> "FizzBuzz"
